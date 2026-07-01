@@ -158,25 +158,6 @@ No incorrect numerical records were identified.
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Ecommerce-Data-Cleaning
-│
-├── Data_Cleaning.ipynb
-├── Raw_Ecommerce_Dataset.csv
-├── Cleaned_Ecommerce_Dataset.csv
-├── requirements.txt
-├── README.md
-└── Images/
-    ├── dataset_overview.png
-    ├── missing_values.png
-    ├── data_types.png
-    └── cleaned_dataset.png
-```
-
----
-
 # 📸 Project Preview
 
 ### Dataset Overview
