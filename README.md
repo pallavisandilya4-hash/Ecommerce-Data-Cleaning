@@ -164,21 +164,11 @@ No incorrect numerical records were identified.
 
 <img width="1625" height="372" alt="image" src="https://github.com/user-attachments/assets/bf9ac5d3-9884-4a98-9231-7567ee984926" />
 
-
-```markdown
-![Dataset Overview](Images/dataset_overview.png)
-```
-
 ---
 
 ### Missing Values
 
 <img width="502" height="420" alt="image" src="https://github.com/user-attachments/assets/61298ab4-8381-4356-aaab-86c98b818fc2" />
-
-
-```markdown
-![Missing Values](Images/missing_values.png)
-```
 
 ---
 
@@ -186,20 +176,11 @@ No incorrect numerical records were identified.
 
 <img width="550" height="496" alt="image" src="https://github.com/user-attachments/assets/37792740-49e9-49dd-976e-aa064f970f52" />
 
-
-```markdown
-![Data Types](Images/data_types.png)
-```
-
 ---
 
 ### Cleaned Dataset
 
 <img width="1176" height="873" alt="image" src="https://github.com/user-attachments/assets/4cb45d7c-85ec-46e4-81a2-ce8020423d80" />
-
-```markdown
-![Cleaned Dataset](Images/cleaned_dataset.png)
-```
 
 ---
 
